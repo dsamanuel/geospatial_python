@@ -5,7 +5,7 @@ import json
 from dotenv import load_dotenv
 
 
-#djflk
+#calculating distance between two points on the Earth’s surface can be done using different formulae. The most common ones are the Haversine formula, the Vincenty formula, and the Great Circle distance. Each of these formulae has its own advantages and disadvantages, and the choice of which one to use depends on the specific use case and the level of accuracy required.
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 
 

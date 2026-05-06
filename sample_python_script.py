@@ -1,6 +1,6 @@
 # This is a simple Python script that demonstrates the use of if-else statements and functions.
 
-# Control flow with if-else statements
+# Control flow with if-else statements and loops
 cities = ['San Francisco', 'Los Angeles', 'New York', 'Atlanta']
 for city in cities:
     if city == 'Los Angeles':
